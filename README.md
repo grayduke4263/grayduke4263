@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**grayduke4263/grayduke4263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **grayduke4263**, a full-stack developer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Looking to collaborate on open source
+- 💬 Ask me anything about code
+- 📚 Reading the source is the best documentation
+
+## Tech
+
+`Docker` `JavaScript` `Express` `TypeScript` `Redis` `Sinatra`
+
+---
+
+_Bash works fine._
